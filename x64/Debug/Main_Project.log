@@ -1,0 +1,47 @@
+﻿  Body.cpp
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Body.cpp(13,112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Body.cpp(13,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Body.cpp(13,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Body.cpp(13,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Enemy_Bots.cpp
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Enemy_Bots.cpp(24,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Enemy_Bots.cpp(24,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Enemy_Bots.cpp(24,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Enemy_Bots.cpp(24,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Gun.cpp
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(16,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(16,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(16,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(16,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(21,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(21,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(21,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(21,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(26,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(26,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(26,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(26,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(64,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(64,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(64,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(64,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(82,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(86,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(98,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(98,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(98,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(98,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(99,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(99,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(99,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(99,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(106,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Gun.cpp(110,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Identity.cpp
+  Main.cpp
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Main.cpp(90,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Main.cpp(90,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Main.cpp(90,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SAP4K\source\repos\Main_Project\Main_Project\Main.cpp(90,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Main_Project.vcxproj -> C:\Users\SAP4K\source\repos\Main_Project\x64\Debug\Main_Project.exe
